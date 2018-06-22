@@ -42,6 +42,8 @@ public class REST_TestInitial extends HttpServlet {
 		String resp = collectRestResponse();
 		
 		pw.append(resp);
+		
+		pw.println("\n=============================================\n\n\t Next step is to parse JSON and get collector details");
 	}
 
 	private String collectRestResponse() {

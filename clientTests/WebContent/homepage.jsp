@@ -7,7 +7,7 @@
 <title>Welcome page!</title>
 </head>
 <body>
-<h1>Welcome to the testing app..!</h1>
+<h1>Welcome to the testing application..!</h1>
 
 </body>
 </html>
